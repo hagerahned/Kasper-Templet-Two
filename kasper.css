@@ -17,7 +17,7 @@ html{
 }
 
 body{
-  
+
     font-family:"Open Sans", sans-serif;
     /* background-image: url(); */
  }
@@ -282,6 +282,7 @@ header nav .toggle-menu{
 
 
   .landing .bullets li.active {
+    
     background-color: var(--main-color);
     border-color: var(--main-color);
   }
